@@ -14,6 +14,7 @@ Detailed business analysis using SQL and Tableau to answer strategic questions a
 - Tableau
 - Excel
 
+
 ### What I Did
 - Performed data validation and cleaning
 - Wrote complex SQL queries with joins and subqueries
