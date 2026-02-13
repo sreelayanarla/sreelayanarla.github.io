@@ -8,6 +8,11 @@ Turning raw data into strategic insights that drive business decisions.
 
 ## About Me
 
+# Hi, I'm [Your Name]
+
+[About Me](https://sreelayanarla.github.io) | [Projects](https://sreelayanarla.github.io/projects) | [Resume](https://sreelayanarla.github.io/resume) | [Contact](#contact)
+
+
 I am a Data Analytics student currently completing the CareerFoundry Data Analytics Program, where I work on real-world business case studies involving data cleaning, analysis, and visualization.
 
 With an MBA in Marketing and hands-on experience as a Marketing Analyst and Data Analyst Intern, I combine business understanding with technical data skills to solve strategic problems.
