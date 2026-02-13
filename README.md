@@ -1,5 +1,7 @@
 # Hi, I'm Sreelaya Narla
 
+[About Me](https://sreelayanarla.github.io) | [Projects](https://sreelayanarla.github.io/projects) | [Resume](https://sreelayanarla.github.io/resume) | [Contact](#contact)
+
 Aspiring Data Analyst | SQL | Tableau | Business Analytics  
 
 Turning raw data into strategic insights that drive business decisions.
@@ -7,11 +9,6 @@ Turning raw data into strategic insights that drive business decisions.
 ---
 
 ## About Me
-
-# Hi, I'm [Your Name]
-
-[About Me](https://sreelayanarla.github.io) | [Projects](https://sreelayanarla.github.io/projects) | [Resume](https://sreelayanarla.github.io/resume) | [Contact](#contact)
-
 
 I am a Data Analytics student currently completing the CareerFoundry Data Analytics Program, where I work on real-world business case studies involving data cleaning, analysis, and visualization.
 
