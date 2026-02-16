@@ -3,16 +3,16 @@
 
 @import "{{ site.theme }}";
 
-/* Custom colors below */
+/* Force custom colors */
 
 a {
-  color: #ff6f61;
+  color: #ff6f61 !important;
 }
 
 h1, h2, h3 {
-  color: #6a5acd;
+  color: #6a5acd !important;
 }
 
 body {
-  background-color: #fdf6ff;
+  background-color: #fdf6ff !important;
 }
