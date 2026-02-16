@@ -22,23 +22,14 @@ Currently based in Germany, I’m building my career as a Junior Data Analyst an
 
 ## Featured Project
 
-### Rockbuster Stealth Data Analysis
+###  Rockbuster Stealth – Data Analysis for Business Expansion Strategy
 
-A business intelligence project analyzing customer and rental data for an international video rental company transitioning to online streaming.
+Project Overview
+Analyzed customer and rental data for a fictional movie rental company transitioning to an online streaming model. The goal was to identify revenue patterns, customer distribution, and regional performance trends to support expansion strategy.
 
-**Tools Used:**
-- SQL (PostgreSQL)
-- Tableau
-- Excel
+Tools Used
+SQL | PostgreSQL | Tableau | Excel
 
-**Key Skills Demonstrated:**
-- Data cleaning & validation
-- Complex joins & subqueries
-- Customer segmentation
-- Revenue analysis
-- Data visualization & storytelling
-
-(More detailed case study coming soon.)
 
 ---
 
