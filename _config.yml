@@ -1,15 +1,3 @@
-remote_theme: mmistakes/minimal-mistakes@4.24.0
-title: Your Full Name
+theme: jekyll-theme-slate
+title: Sreelaya Narla
 description: Data Analyst | SQL | Tableau | Business Analytics
-baseurl: "" # leave blank
-url: "https://sreelayanarla.github.io"
-
-nav:
-  - title: "Home"
-    url: /
-  - title: "Projects"
-    url: /projects
-  - title: "Resume"
-    url: /resume
-  - title: "Contact"
-    url: /contact
