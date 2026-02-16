@@ -3,3 +3,13 @@ title: Your Full Name
 description: Data Analyst | SQL | Tableau | Business Analytics
 baseurl: "" # leave blank
 url: "https://sreelayanarla.github.io"
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects
+  - title: "Resume"
+    url: /resume
+  - title: "Contact"
+    url: /contact
