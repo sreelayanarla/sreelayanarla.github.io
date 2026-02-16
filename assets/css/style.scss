@@ -3,16 +3,52 @@
 
 @import "{{ site.theme }}";
 
-/* Force custom colors */
+/* ===== HEADER GRADIENT ===== */
+
+#header_wrap {
+  background: linear-gradient(135deg, #3f2b96, #a8c0ff) !important;
+}
+
+#project_title {
+  color: #ffffff !important;
+}
+
+#project_tagline {
+  color: #f0f0f0 !important;
+}
+
+/* ===== MAIN CONTENT AREA ===== */
+
+#main_content_wrap {
+  background: #ffffff !important;
+}
+
+body {
+  background-color: #eef1ff !important;
+}
+
+/* ===== FOOTER ===== */
+
+#footer_wrap {
+  background: #2c2c54 !important;
+}
+
+#footer_wrap p {
+  color: #ffffff !important;
+}
+
+/* ===== LINKS ===== */
 
 a {
   color: #ff6f61 !important;
 }
 
-h1, h2, h3 {
-  color: #6a5acd !important;
+a:hover {
+  color: #ff3b2e !important;
 }
 
-body {
-  background-color: #fdf6ff !important;
+/* ===== HEADINGS ===== */
+
+h1, h2, h3 {
+  color: #3f2b96 !important;
 }
