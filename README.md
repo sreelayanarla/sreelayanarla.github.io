@@ -2,7 +2,7 @@
 
 [About Me](https://sreelayanarla.github.io) | [Projects](https://sreelayanarla.github.io/projects) | [Resume](https://sreelayanarla.github.io/resume) | [Contact](#contact)
 
-Aspiring Data Analyst | SQL | Tableau | Business Analytics  
+Aspiring Data Analyst 
 
 Turning raw data into strategic insights that drive business decisions.
 
@@ -10,11 +10,13 @@ Turning raw data into strategic insights that drive business decisions.
 
 ## About Me
 
-I am a Data Analytics student currently completing the CareerFoundry Data Analytics Program, where I work on real-world business case studies involving data cleaning, analysis, and visualization.
+Hi, I’m Sreelaya- a data enthusiast with a background in Computer Science and Marketing.
 
-With an MBA in Marketing and hands-on experience as a Marketing Analyst and Data Analyst Intern, I combine business understanding with technical data skills to solve strategic problems.
+I’ve always been curious about patterns — whether in systems, markets, or human behavior. Over time, I realized I didn’t just enjoy building things, I enjoyed understanding them. That curiosity led me to data analytics — where logic meets storytelling.
 
-I am currently seeking entry-level Data Analyst or Business Analyst roles (remote or on-site).
+I like giving data a story and context, not just numbers. For me, analytics is about making information clearer, more meaningful, and easier for people to understand.
+
+Currently based in Germany, I’m building my career as a Junior Data Analyst and continuously sharpening my skills in SQL, Python, Excel, and Tableau.
 
 ---
 
@@ -40,16 +42,22 @@ A business intelligence project analyzing customer and rental data for an intern
 
 ---
 
-## Skills
+## What I Work With
 
-- SQL
-- Tableau
-- Excel
-- Data Cleaning
-- Data Visualization
-- Business Analytics
-- Data Consistency Checks
+### Data Analysis:
+SQL queries, aggregations, joins, subqueries, data validation
 
+### Python:
+Data cleaning, merging datasets, exploratory analysis (Pandas, Matplotlib)
+
+### Visualization:
+Interactive Tableau dashboards
+Clear, insight-focused reporting
+
+### Business Context:
+Customer behavior analysis
+Revenue & trend analysis
+Marketing & segmentation analysis
 ---
 
 ## Contact
