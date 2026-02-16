@@ -55,4 +55,4 @@ Marketing & segmentation analysis
 
 Email: layanarla7 (at) gmail (dot) com  
 LinkedIn: https://linkedin.com/in/sreelayanarla
-GitHub: https://github.com/sreelayanarla
+GitHub: (https://github.com/sreelayanarla)
