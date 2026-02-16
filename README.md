@@ -24,13 +24,15 @@ Currently based in Germany, I’m building my career as a Junior Data Analyst an
 
 ###  Rockbuster Stealth – Data Analysis for Business Expansion Strategy
 
-Project Overview
+#### Project Overview
+
 Analyzed customer and rental data for a fictional movie rental company transitioning to an online streaming model. The goal was to identify revenue patterns, customer distribution, and regional performance trends to support expansion strategy.
 
-Tools Used
+#### Tools Used
+
 SQL | PostgreSQL | Tableau | Excel
 
-What I Did
+#### What I Did
 
 Queried relational databases using SQL (joins, aggregations, subqueries) to analyze revenue, rentals, and customer demographics
 
@@ -40,7 +42,7 @@ Identified top-performing countries, cities, and customer segments
 
 Built Tableau dashboards to visualize revenue distribution and regional trends
 
-Key Insights
+#### Key Insights
 
 Revenue was concentrated in specific geographic regions
 
@@ -48,8 +50,10 @@ A small percentage of customers generated a large portion of total revenue
 
 Certain countries showed strong expansion potential based on rental volume
 
-Outcome
+#### Outcome
+
 Provided structured recommendations to support Rockbuster’s transition toward a data-driven online strategy.
+
 ---
 
 ## What I Work With
