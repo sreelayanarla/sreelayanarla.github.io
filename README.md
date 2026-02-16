@@ -4,7 +4,7 @@
 
 Aspiring Data Analyst 
 
-Turning raw data into strategic insights that drive business decisions.
+Exploring data like a puzzle — one pattern at a time.
 
 ---
 
@@ -30,7 +30,26 @@ Analyzed customer and rental data for a fictional movie rental company transitio
 Tools Used
 SQL | PostgreSQL | Tableau | Excel
 
+What I Did
 
+Queried relational databases using SQL (joins, aggregations, subqueries) to analyze revenue, rentals, and customer demographics
+
+Conducted data validation and consistency checks to ensure accuracy
+
+Identified top-performing countries, cities, and customer segments
+
+Built Tableau dashboards to visualize revenue distribution and regional trends
+
+Key Insights
+
+Revenue was concentrated in specific geographic regions
+
+A small percentage of customers generated a large portion of total revenue
+
+Certain countries showed strong expansion potential based on rental volume
+
+Outcome
+Provided structured recommendations to support Rockbuster’s transition toward a data-driven online strategy.
 ---
 
 ## What I Work With
@@ -49,10 +68,11 @@ Clear, insight-focused reporting
 Customer behavior analysis
 Revenue & trend analysis
 Marketing & segmentation analysis
+
 ---
 
 ## Contact
 
-Email: layanarla7 (at) gmail (dot) com  
-LinkedIn: https://linkedin.com/in/sreelayanarla
-GitHub: (https://github.com/sreelayanarla)
+📧 [Email Me](mailto:layanarla7@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/sreelayanarla)  
+💻 [GitHub](https://github.com/sreelayanarla)
