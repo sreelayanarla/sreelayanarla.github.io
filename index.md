@@ -1,7 +1,7 @@
 ---
-layout: single
-title: "Home"
+layout: default
 ---
+
 
 
 # Hi, I'm Sreelaya Narla
