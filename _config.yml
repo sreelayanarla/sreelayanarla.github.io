@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Sreelaya Narla
 description: Data Analyst | SQL | Tableau | Business Analytics
+sass:
+  style: compressed
