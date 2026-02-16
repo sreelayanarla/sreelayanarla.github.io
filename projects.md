@@ -2,8 +2,6 @@
 layout: default
 ---
 
-
-
 # Projects
 
 # Rockbuster Stealth – SQL Data Analysis Project
