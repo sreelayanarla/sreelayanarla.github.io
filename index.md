@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Home"
+---
+
+
 # Hi, I'm Sreelaya Narla
 
 [About Me](https://sreelayanarla.github.io) | [Projects](https://sreelayanarla.github.io/projects) | [Resume](https://sreelayanarla.github.io/resume) | [Contact](#contact)
